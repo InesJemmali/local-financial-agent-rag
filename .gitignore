@@ -1,0 +1,7 @@
+env.sh
+.venv/
+__pycache__/
+*.log
+reports/
+index/
+logs/
