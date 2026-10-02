@@ -1,0 +1,9 @@
+requests>=2.31
+pandas>=2.2
+numpy>=1.26
+openpyxl>=3.1
+pypdf>=4.0
+reportlab>=4.0
+ddgs>=9.0
+fastapi>=0.110
+uvicorn>=0.29
